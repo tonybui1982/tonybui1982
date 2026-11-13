@@ -1,20 +1,35 @@
-### Hey 👋
+# Hi there 👋, I'm tonybui1982
 
-That's what I'm doing currently:
-- :crab: Learning Rust
+<p align="center">
+  <em>Developer building scalable backend services and modern applications.</em>
+</p>
 
-Feel free to look around my profile and contribute to my projects!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonybui1982&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tonybui1982?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Learning-orange?style=flat-square" alt="Focus" />
+</p>
 
-Have fun 🎉
+---
 
-### If you really like my work :smiley:
+## 🔭 What I'm Working On
+- **Learning & Growth:** Exploring new programming languages like Rust and expanding my technical skill set.
+- **Backend & Projects:** Building and contributing to various open-source tools and software projects.
 
-I'm part of the official GitHub Sponsors program where you can support me on a monthly basis.
+## ⚡ Tech Stack & Tools
+- **Languages:** Rust, Python, JavaScript, TypeScript
+- **Tools & Environment:** Git, GitHub, Linux
 
-<a href="https://github.com/sponsors/tonybui1982" target="_blank"><img src="https://github.com/lagmoellertim/shared-repo-files/raw/main/github-sponsors-button.png" alt="GitHub Sponsors" height="35px" ></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonybui1982&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="tonybui1982's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybui1982&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-You can also contribute by buying me a coffee (this is a one-time donation).
+---
 
-<a href="https://ko-fi.com/tonybui1982" target="_blank"><img src="https://github.com/lagmoellertim/shared-repo-files/raw/main/kofi-sponsors-button.png" alt="Ko-Fi Sponsors" height="35px" ></a>
+## 💖 Support My Work
+If you find my projects or contributions useful, consider supporting my ongoing work:
+- **GitHub Sponsors:** [Click here to sponsor via GitHub](https://github.com/sponsors/tonybui1982)
 
-Thank you for your support! :clap:
+📫 **How to reach me:** Open an issue or start a discussion in any of my repositories!
